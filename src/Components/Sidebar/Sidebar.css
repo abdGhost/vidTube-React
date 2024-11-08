@@ -13,7 +13,7 @@
   margin-right: 20px;
 }
 
-.shortcut-links .side-links {
+.side-link {
   display: flex;
   align-items: center;
   margin-bottom: 20px;
@@ -27,12 +27,6 @@
   height: 1px;
   background: #ccc;
   width: 85%;
-}
-
-.subscribed-list .side-links {
-  display: flex;
-  margin-bottom: 10px;
-  align-items: center;
 }
 
 .subscribed-list h3 {
